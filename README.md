@@ -1,2 +1,2 @@
-# Pythin_project
+# Python_project
 Author: Rishabh Ojha
